@@ -1,0 +1,6 @@
+question,question_text,answer
+Q1,What is the average fare by service type?,Careem: 544.975; InDrive: 573.514783; Rickshaw: 486.6372; Uber: 486.125455
+Q2,Which city has the most trips?,"Islamabad, with 29 trips"
+Q3,What is the average distance per trip?,9.613 km
+Q4,Compare trip ratings by gender.,Female: 2.823529; Male: 3.326531
+Q5,Make a bar chart of service type vs. average fare.,See average_fare_by_service_chart.png; chart data is in average_fare_by_service.csv
